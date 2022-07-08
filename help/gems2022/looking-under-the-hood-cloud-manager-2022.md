@@ -7,9 +7,9 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: beb1535f026b59d77039a3395f0ebed01ea0c9b7
+source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
 workflow-type: tm+mt
-source-wordcount: '189'
+source-wordcount: '177'
 ht-degree: 0%
 
 ---
@@ -23,12 +23,12 @@ Sitzungsbeschreibung: Informieren Sie sich über die neuen Funktionen, die im le
 
 Der Inhalt gilt sowohl für Adobe Experience Manager as a Cloud Service als auch für Experience Manager Managed Services, wobei der Schwerpunkt auf Cloud Service liegt. Es eignet sich sowohl für technische als auch für nicht-technische Teilnehmer. Die vorherige Veröffentlichung von Cloud Manager kann für den Kontext hilfreich sein, ist jedoch nicht erforderlich.
 
-## Webinar-Aufzeichnung
+**Webinar-Aufzeichnung**
 
 >[!VIDEO](https://video.tv.adobe.com/v/343876)
 
 >[!NOTE]
 >
 >* Informationen zu sitzungsspezifischen Community-Interaktionen auf Experience League finden Sie hier . [Kontextueller Thread](https://adobe.ly/3O0rdzd)
->* Wenn Sie nicht an diesem Webinar teilnehmen, registrieren Sie sich bitte unter [AEM Benutzergruppe der Adobe](https://aem-augs.adobe.com/) um Benachrichtigungen über bevorstehende AEM GEMs-Webinare und AEM damit zusammenhängende Ereignisse zu erhalten.
+>* Um automatische Benachrichtigungen zu Webinaren zu erhalten, registrieren Sie sich bitte unter [AEM Benutzergruppe der Adobe](https://aem-augs.adobe.com/).
 
