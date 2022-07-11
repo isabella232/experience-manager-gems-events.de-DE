@@ -1,35 +1,29 @@
 ---
-title: Einführung in die AEM Modernisierungs-Suite
-description: Erfahren Sie, wie Sie statische Vorlagenseiten in bearbeitbare Vorlagen konvertieren. Erfahren Sie, wie Sie benutzerdefinierte oder ältere Komponenten in Kernkomponentenprofile konvertieren können und vieles mehr.
+title: Introducing the AEM Modernization Suite
+description: Learn how to convert static template pages to editable templates. Learn how to convert custom or legacy components to Core Component Proxies, and more.
 uuid: f1b17a0f-055f-48f4-a0be-e50318b3349d
 discoiquuid: 2bb43197-11dc-4e96-a4ec-326fef150845
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '158'
-ht-degree: 1%
-
 ---
 
+# Introducing the AEM Modernization Suite{#introducing-the-aem-modernization-suite}
 
-# Einführung in die AEM Modernisierungs-Suite{#introducing-the-aem-modernization-suite}
+Some Customers still rely on the Classic UI for their AEM Sites authoring experience. With the deprecation of this interface, a Summit lab was proposed to help our customers update their implementations to the newest capabilities. To support the Lab and provide our customers with the necessary means, Bryan Stopp and Gilles Knobloch created the AEM Modernization Tool Suite.  Come learn about this new tool’s capabilities to: 
 
-Einige Kunden verlassen sich für ihre AEM Sites-Authoring-Erfahrung weiterhin auf die klassische Benutzeroberfläche. Mit der Einstellung dieser Oberfläche wurde ein Summit-Labor vorgeschlagen, um unseren Kunden zu helfen, ihre Implementierungen auf die neuesten Funktionen zu aktualisieren. Um das Labor zu unterstützen und unseren Kunden die erforderlichen Mittel zur Verfügung zu stellen, haben Bryan Stopp und Gilles Knobloch die AEM Modernization Tool Suite erstellt.  Lernen Sie die Funktionen dieses neuen Tools kennen, um:
-
-* Konvertieren von statischen Vorlagenseiten in bearbeitbare Vorlagen
-* Konvertieren benutzerdefinierter/älterer Komponenten in Kernkomponentenprofile (oder andere benutzerdefinierte Komponenten)
-* Importieren und Konvertieren von Komponentendesigns als Richtlinien für bearbeitbare Vorlagen
-* Und (natürlich) Aktualisieren Sie die Dialogfelder von Classic/Coral2 auf Coral 3-Dialogfelder
+* Convert Static Template Pages to Editable Templates
+* Convert Custom/Legacy components to Core Component Proxies (or other custom Components)
+* Import and Convert Component Designs as Editable Template Policies
+* And (of course) Update Classic/Coral2 Dialogs to Coral 3 Dialogs  
 
 >[!VIDEO](https://video.tv.adobe.com/v/27322?quality=9)
 
-*Zugestellt am 19.05.2019*
+*Delivered 05/08/19*
 
-**Vorgestellt von:**
+**Presented by:**
 
-* Bryan Stopp, AEM Technischer Architekt, Adobe
+* Bryan Stopp, AEM Technical Architect, Adobe
 * Gilles Knobloch, Senior Engineering Manager, Adobe
 
-**Präsentationsfolien**
+**Presenter slides**
 
-[Datei laden](assets/modernization-toolsaemgems.pdf)
+[Get File](assets/modernization-toolsaemgems.pdf)

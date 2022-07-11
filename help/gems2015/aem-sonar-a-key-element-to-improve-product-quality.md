@@ -1,34 +1,28 @@
 ---
-title: Sonar - Ein Schlüsselelement zur Verbesserung der Produktqualität
-description: Erfahren Sie, wie Sie mit Sonar die Produktqualität verbessern können, einschließlich Unit-Test-Abdeckung, Integration-Test-Abdeckung und statischer Code-Analyse. Erfahren Sie auch mehr über AEM Anwendungsfall und erhalten Sie eine globale Präsentation der Sonar-Anwendung.
+title: Sonar - A key element to improve product quality
+description: Learn how to use Sonar to help improve product quality, including Unit Test coverage, Integration Test coverage, static code analysis. Also learn about AEM use case and get a Q&A global presentation of Sonar application.
 uuid: f193d261-0e70-4758-8b0f-47c7b288e9e9
 discoiquuid: e0a955be-47e1-4d78-ab20-c4747b06d094
 targetaudience: target-audience advanced
 exl-id: 6aa7ca31-aebe-418c-a231-f2cc7b619c00
-source-git-commit: b7806491034e1afcef503311de86bb15fda51460
-workflow-type: tm+mt
-source-wordcount: '112'
-ht-degree: 6%
-
 ---
+# Sonar - A key element to improve product quality{#sonar-a-key-element-to-improve-product-quality}
 
-# Sonar - Ein Schlüsselelement zur Verbesserung der Produktqualität{#sonar-a-key-element-to-improve-product-quality}
+During this session David will discuss: 
 
-Während dieser Sitzung wird David Folgendes erörtern:
-
-* Verwendung von Sonar zur Verbesserung der Produktqualität (Unit-Test-Abdeckung, Integration-Test-Abdeckung, statische Code-Analyse)
-* Anwendungsfall AEM
-* Fragen und Antworten zur globalen Präsentation der Sonar-Anwendung
+* How to use Sonar to help improve product quality (Unit Test coverage, Integration Test coverage, static code analysis)
+* AEM use case
+* Q&A Global presentation of Sonar application
 
 >[!VIDEO](https://video.tv.adobe.com/v/19379/?quality=9)
 
-*Ausgestellt am 11. Februar 2015*
+*Delivered February 11, 2015*
 
-**Vorgestellt von:**
+**Presented by:**
 
 * David Catalan, Lead QE Developer, Adobe
 
-**Präsentationsfolien**
+**Presenter slides**
 
-[Datei abrufen](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
-[Zurück zur Übersicht](https://helpx.adobe.com/de/experience-manager/kt/eseminars/gems/aem-index.html)
+[Get File](assets/cq-gems-on-aem-sonarqube-2015-02.pdf)
+[Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)

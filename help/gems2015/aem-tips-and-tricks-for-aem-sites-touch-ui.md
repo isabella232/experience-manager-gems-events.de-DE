@@ -1,33 +1,27 @@
 ---
-title: Tipps und Tricks für die Touch-Benutzeroberfläche von AEM Sites
-description: Erfahren Sie mehr über die coolsten Tipps und Tricks zu [!DNL AEM Sites] Touch-Benutzeroberfläche. Entdecken Sie die Funktionen der Touch-optimierten Benutzeroberfläche, über die Sie möglicherweise noch nichts wissen, um mehr zu erreichen und dies schneller zu tun. Unabhängig davon, ob Sie ein Inhaltsstratege oder Inhaltsmarketer sind, werden Sie einige der verborgenen Edelsteine der Touch-Benutzeroberfläche entdecken, die Sie effizienter und produktiver machen.
+title: Tips and tricks for AEM Sites Touch UI
+description: Learn the coolest tips and tricks about [!DNL AEM Sites] Touch UI. Discover the features of the Touch UI you may or may not know about that allow you to accomplish more, and do it faster. Whether you’re a content strategist or a content marketer, you will discover some of the hidden gems of the Touch UI that will make you more efficient and productive.
 uuid: 2d11ca50-d3cf-43e3-8256-358d72d03a44
 discoiquuid: 30cbcfed-fd63-465a-be79-eb2cfeec9078
 targetaudience: target-audience advanced
 exl-id: 3a7f3724-5581-4aa4-a31e-20638639866f
-source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
-workflow-type: tm+mt
-source-wordcount: '179'
-ht-degree: 0%
-
 ---
+# Tips and tricks for [!DNL AEM Sites] Touch UI{#tips-and-tricks-for-aem-sites-touch-ui}
 
-# Tipps und Tricks für [!DNL AEM Sites] Touch-Benutzeroberfläche{#tips-and-tricks-for-aem-sites-touch-ui}
+Learn the coolest tips and tricks about [!DNL AEM Sites] Touch UI. Discover the features of the Touch UI you may or may not know about that allow you to accomplish more, and do it faster. Whether you’re a content strategist or a content marketer, you will discover some of the hidden gems of the Touch UI that will make you more efficient and productive.
 
-Erfahren Sie mehr über die coolsten Tipps und Tricks zu [!DNL AEM Sites] Touch-Benutzeroberfläche. Entdecken Sie die Funktionen der Touch-optimierten Benutzeroberfläche, über die Sie möglicherweise noch nichts wissen, um mehr zu erreichen und dies schneller zu tun. Unabhängig davon, ob Sie ein Inhaltsstratege oder Inhaltsmarketer sind, werden Sie einige der verborgenen Edelsteine der Touch-Benutzeroberfläche entdecken, die Sie effizienter und produktiver machen.
+In this GEM, learn how to: 
 
-In diesem GEM erfahren Sie, wie Sie:
-
-* Effiziente Navigation und Suche von Inhalten
-* Organisieren Sie Inhalte und arbeiten Sie daran zusammen
-* Verschaffen Sie sich einen Überblick über die Vorgänge
-* Autoreninhalt
+* Efficiently navigate and find content
+* Organize content and collaborate on it
+* Keep an overview of what is going on
+* Author content
 
 >[!VIDEO](https://video.tv.adobe.com/v/19377/?quality=9)
 
-*Ausgestellt am 3. Juni 2015*
+*Delivered June 3, 2015*
 
-**Vorgestellt von:**
+**Presented by:**
 
 * Gabriel Walt, Product Manager, Adobe
 * Gilles Knobloch, Engineering Manager, Adobe
