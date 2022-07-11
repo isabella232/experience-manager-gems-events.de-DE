@@ -1,52 +1,71 @@
----
-source-git-commit: 34d3ebb312069a5e036bdedfced8375a6b6d7d5b
-workflow-type: tm+mt
-source-wordcount: '431'
-ht-degree: 100%
+# Adobe Code of Conduct
 
----
-# Adobe-Verhaltenskodex
+## Our Pledge
 
-## Unser Versprechen
+In the interest of fostering an open and welcoming environment, we as
+contributors and maintainers pledge to making participation in our project and
+our community a harassment-free experience for everyone, regardless of age, body
+size, disability, ethnicity, gender identity and expression, level of experience,
+nationality, personal appearance, race, religion, or sexual identity and
+orientation.
 
-Um eine offene und einladende Umgebung zu fördern, versprechen wir als Mitwirkende und Verantwortliche, die Teilnahme an unserem Projekt und unserer Community zu einem belästigungsfreien Erlebnis für alle zu machen, unabhängig von Alter, Körpermaßen, Behinderung, ethnischer Herkunft, Geschlechtsidentität und -ausdruck, Erfahrungsstand, Nationalität, persönlichem Erscheinungsbild, Rasse, Religion oder sexueller Identität und Orientierung.
+## Our Standards
 
-## Unsere Standards
+Examples of behavior that contributes to creating a positive environment
+include:
 
-Zu den Beispielen, die zur Schaffung einer positiven Umgebung beitragen, gehören:
+* Using welcoming and inclusive language
+* Being respectful of differing viewpoints and experiences
+* Gracefully accepting constructive criticism
+* Focusing on what is best for the community
+* Showing empathy towards other community members
 
-* Verwenden einer einladenden und inklusiven Sprache
-* Respekt gegenüber unterschiedlichen Sichtweisen und Erfahrungen
-* Höfliche Entgegennahme konstruktiver Kritik
-* Fokussierung auf das, was für die Community am besten ist
-* Zeigen von Empathie für andere Community-Mitglieder
+Examples of unacceptable behavior by participants include:
 
-Zu Beispielen für inakzeptables Verhalten von Teilnehmern gehören:
+* The use of sexualized language or imagery and unwelcome sexual attention or
+advances
+* Trolling, insulting/derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or electronic
+  address, without explicit permission
+* Other conduct which could reasonably be considered inappropriate in a
+  professional setting
 
-* Die Verwendung sexualisierter Sprache oder Bilder oder unerwünschte sexuelle Annährungsversuche oder Belästigungen
-* Trollen, beleidigende/abwertende Kommentare sowie persönliche oder politische Angriffe
-* Öffentliche oder private Belästigung
-* Veröffentlichung privater Informationen anderer Benutzer, wie z. B. einer physischen oder elektronischen Adresse, ohne ausdrückliche Zustimmung
-* Andere Verhaltensweisen, die in einem professionellen Umfeld als unangemessen betrachtet werden könnten
+## Our Responsibilities
 
-## Unsere Zuständigkeiten
+Project maintainers are responsible for clarifying the standards of acceptable
+behavior and are expected to take appropriate and fair corrective action in
+response to any instances of unacceptable behavior.
 
-Projektverantwortliche haben die Aufgabe, die Standards des akzeptablen Verhaltens zu verdeutlichen, und es wird erwartet, dass sie als Reaktion auf Fälle von inakzeptablem Verhalten geeignete und angemessene Gegenmaßnahmen ergreifen.
+Project maintainers have the right and responsibility to remove, edit, or
+reject comments, commits, code, wiki edits, issues, and other contributions
+that are not aligned to this Code of Conduct, or to ban temporarily or
+permanently any contributor for other behaviors that they deem inappropriate,
+threatening, offensive, or harmful.
 
-Projektverantwortliche haben das Recht und die Verantwortung, Kommentare, Verpflichtungen, Code, Wiki-Bearbeitungen, Probleme und andere Beiträge zu entfernen, zu bearbeiten oder abzulehnen, die nicht an diesem Verhaltenskodex ausgerichtet sind, oder einen Mitwirkenden wegen anderer Verhaltensweisen, die sie für unangemessen, bedrohend, beleidigend oder schädlich halten, vorübergehend oder dauerhaft zu sperren.
+## Scope
 
-## Anwendungsbereich
+This Code of Conduct applies both within project spaces and in public spaces
+when an individual is representing the project or its community. Examples of
+representing a project or community include using an official project e-mail
+address, posting via an official social media account, or acting as an appointed
+representative at an online or offline event. Representation of a project may be
+further defined and clarified by project maintainers.
 
-Dieser Verhaltenskodex gilt sowohl innerhalb der Projektbereiche als auch in öffentlichen Räumen, wenn eine Person das Projekt oder die Community repräsentiert. Beispiele für das Repräsentieren eines Projekts oder einer Community sind die Verwendung einer offiziellen E-Mail-Adresse des Projekts, die Veröffentlichung über ein offizielles Social-Media-Konto oder das Handeln als benannter Vertreter bei einem Online- oder Offline-Ereignis. Die Repräsentation eines Projekts kann von den Projektverantwortlichen weiter definiert und geklärt werden.
+## Enforcement
 
-## Durchsetzung
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported by contacting the project team at Grp-opensourceoffice@adobe.com. All
+complaints will be reviewed and investigated and will result in a response that
+is deemed necessary and appropriate to the circumstances. The project team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
+Further details of specific enforcement policies may be posted separately.
 
-Fälle von beleidigenden, belästigenden oder sonst inakzeptablen Verhaltensweisen können über die Kontaktaufnahme mit dem Projekt-Team unter Grp-opensourceoffice@adobe.com gemeldet werden. Alle Beschwerden werden geprüft und untersucht und erhalten eine Antwort, die für die Umstände als erforderlich und angemessen erachtet wird. Das Projekt-Team ist
-verpflichtet, die Vertraulichkeit in Bezug auf den Melder eines Vorkommnisses zu wahren.
-Weitere Details zu spezifischen Durchsetzungsrichtlinien können separat veröffentlicht werden.
+Project maintainers who do not follow or enforce the Code of Conduct in good
+faith may face temporary or permanent repercussions as determined by other
+members of the project's leadership.
 
-Projektverantwortliche, die dem Verhaltenskodex nicht im guten Glauben folgen oder diesen durchsetzen, können vorübergehenden oder dauerhaften Auswirkungen unterliegen, wie von anderen Mitgliedern der Projektleitung bestimmt.
+## Attribution
 
-## Zuordnung
-
-Dieser Verhaltenskodex wird vom [Contributor Covenant](https://contributor-covenant.org), Version 1.4 angepasst, der unter [https://contributor-covenant.org/version/1/4/](https://contributor-covenant.org/version/1/4/) verfügbar ist.
+This Code of Conduct is adapted from the [Contributor Covenant](https://contributor-covenant.org), version 1.4,
+available at [https://contributor-covenant.org/version/1/4](https://contributor-covenant.org/version/1/4/)
