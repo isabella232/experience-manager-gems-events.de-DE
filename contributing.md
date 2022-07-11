@@ -1,53 +1,46 @@
-# Contributing
+---
+source-git-commit: 34d3ebb312069a5e036bdedfced8375a6b6d7d5b
+workflow-type: tm+mt
+source-wordcount: '296'
+ht-degree: 100%
 
-Thanks for choosing to contribute!
+---
+# Beitragen
 
-The following are a set of guidelines to follow when contributing to this project.
+Danke für Ihren Beitrag!
 
-## Code Of Conduct
+Im Folgenden finden Sie eine Reihe von Richtlinien, die bei Beiträgen zu diesem Projekt zu befolgen sind.
 
-This project adheres to the Adobe [code of conduct](code-of-conduct.md). By participating,
-you are expected to uphold this code. Please report unacceptable behavior to
+## Verhaltenskodex
+
+Dieses Projekt hält den Adobe-[Verhaltenskodex](code-of-conduct.md) ein. Wir erwarten, dass Sie bei Ihrer Teilnahme diesen Code befolgen. Bitte melden Sie sich inakzeptables Verhalten an
 [Grp-opensourceoffice@adobe.com](mailto:Grp-opensourceoffice@adobe.com).
 
-## Contributor Guide Documentation
+## Dokumentation zum Contributor Guide
 
-See the [Contributor Guide](https://docs.adobe.com/content/help/en/contributor/contributor-guide/introduction.html).
+Siehe [Contributor Guide](https://docs.adobe.com/content/help/de/contributor/contributor-guide/introduction.html).
 
-## Have A Question?
+## Haben Sie eine Frage?
 
-Start by filing an issue. The existing committers on this project work to reach
-consensus around project direction and issue solutions within issue threads
-(when appropriate).
+Melden Sie als Erstes ein Problem. Die vorhandenen Verantwortlichen bei diesem Projekt arbeiten daran, einen Konsens in Bezug auf die Richtung des Projekts und Problemlösungen in Problem-Threads zu arbeiten (falls zutreffend).
 
-## Contributor License Agreement
+## Lizenzvereinbarung für Anbieter (CLA)
 
-All third-party contributions to this project must be accompanied by a signed contributor
-license agreement. This gives Adobe permission to redistribute your contributions
-as part of the project. [Sign our CLA](http://opensource.adobe.com/cla.html). You
-only need to submit an Adobe CLA one time, so if you have submitted one previously,
-you are good to go!
+Alle Drittanbieter-Beiträge zu diesem Projekt müssen von einer unterzeichneten Lizenzvereinbarung für Mitwirkende begleitet werden. Damit kann Adobe Ihre Beiträge als Teil des Projekts weitervertreiben. [Signieren Sie unsere CLA](http://opensource.adobe.com/cla.html). Sie müssen nur einmal eine Adobe-CLA übermitteln. Wenn Sie also bereits eine übermittelt haben, können Sie sofort loslegen!
 
-## Code Reviews
+## Codeüberprüfungen
 
-All submissions should come in the form of pull requests and need to be reviewed
-by project committers. Read [GitHub's pull request documentation](https://help.github.com/articles/about-pull-requests/)
-for more information on sending pull requests.
+Alle Übermittlungen sollten in Form von Abruf-Anfragen erfolgen und müssen von den Projektverantwortlichen geprüft werden. Weitere Informationen zum Senden von Pull-Anfragen finden Sie in der [Dokumentation zu Pull Requests auf GitHub](https://help.github.com/articles/about-pull-requests/).
 
 <!--
 Lastly, please follow the [pull request template](PULL_REQUEST_TEMPLATE.md) when
 submitting a pull request!
 -->
 
-## From Contributor To Committer
+## Vom Mitwirkenden zum Verantwortlichen
 
-We love contributions from our community! If you'd like to go a step beyond contributor
-and become a committer with full write access and a say in the project, you must
-be invited to the project. The existing committers employ an internal nomination
-process that must reach lazy consensus (silence is approval) before invitations
-are issued. If you feel you are qualified and want to get more deeply involved,
-feel free to reach out to existing committers to have a conversation about that.
+Wir lieben Beiträge aus unserer Community! Wenn Sie sich von einem Mitwirkenden zu einem Verantwortlichen mit vollständigem Schreibzugriff entwickeln und bei Projekten mitreden möchten, müssen Sie zum Projekt eingeladen werden. Die vorhandenen Verantwortlichen verwenden einen internen Nominierungsprozess, der einen stillen Konsens (Schweigen bedeutet Genehmigung) erhalten muss, bevor Einladungen ausgesprochen werden. Wenn Sie denken, dass Sie qualifiziert sind, und umfassender involviert werden möchten, können Sie sich gerne an vorhandene Verantwortliche wenden, um ein Gespräch darüber zu führen.
 
-## Security Issues
+## Sicherheitsprobleme
 
-Security issues shouldn't be reported on this issue tracker. Instead, [file an issue to our security experts](https://helpx.adobe.com/security/alertus.html)
+Sicherheitsprobleme sollten bei diesem Problemtracker nicht gemeldet werden. [Reichen Sie stattdessen ein Problem bei unseren Sicherheitsexperten ein](https://helpx.adobe.com/de/security/alertus.html).

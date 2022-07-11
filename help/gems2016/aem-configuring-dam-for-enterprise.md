@@ -1,34 +1,40 @@
 ---
-title: Configuring the DAM for Enterprise
-description: This session is designed to help users improve success leveraging AEM Assets. Arnold Espos will focus on the use cases of real DAM Enterprise customers, their challenges, and the solutions that have been created to support them to increase the success they see with DAM.   Attendees will be able to better understand how to use DAM in their environments. Through seeing case studies from real customers, attendees working with existing DAM customers will be able understand the new solutions provided through this offering, which can help their existing workflows and understanding of the technology.
+title: DAM für Unternehmen konfigurieren
+description: Diese Sitzung soll Benutzern helfen, die Nutzung von AEM Assets erfolgreich zu verbessern. Arnold Espos wird sich auf die Anwendungsfälle echter DAM-Unternehmenskunden, ihre Herausforderungen und die Lösungen konzentrieren, die entwickelt wurden, um sie bei der Steigerung ihres Erfolgs mit DAM zu unterstützen.   Teilnehmer können besser verstehen, wie DAM in ihren Umgebungen verwendet wird. Durch Fallstudien von echten Kunden können Teilnehmer, die mit bestehenden DAM-Kunden zusammenarbeiten, die neuen Lösungen dieses Angebots verstehen, die ihren bestehenden Workflows und dem Verständnis der Technologie helfen können.
 uuid: de15b14d-4316-4c7e-b9b4-55287b47171e
 dms: dam
 discoiquuid: 7a41c23a-1b45-43f4-8b41-13d206ce6e87
 targetaudience: target-audience advanced
 exl-id: fad623ba-3a83-4944-ba54-dfde9b82cc84
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '257'
+ht-degree: 7%
+
 ---
-# Configuring the DAM for Enterprise{#configuring-the-dam-for-enterprise}
 
-This session is designed to help users improve success leveraging [!DNL AEM Assets]. Arnold Espos will focus on the use cases of real DAM Enterprise customers, their challenges, and the solutions that have been created to support them to increase the success they see with DAM.   
+# DAM für Unternehmen konfigurieren{#configuring-the-dam-for-enterprise}
 
-Attendees will be able to better understand how to use DAM in their environments. Through seeing case studies from real customers, attendees working with existing DAM customers will be able understand the new solutions provided through this offering, which can help their existing workflows and understanding of the technology.
+Diese Sitzung soll Benutzern dabei helfen, die Erfolgsnutzung zu verbessern [!DNL AEM Assets]. Arnold Espos wird sich auf die Anwendungsfälle echter DAM-Unternehmenskunden, ihre Herausforderungen und die Lösungen konzentrieren, die entwickelt wurden, um sie bei der Steigerung ihres Erfolgs mit DAM zu unterstützen.
+
+Teilnehmer können besser verstehen, wie DAM in ihren Umgebungen verwendet wird. Durch Fallstudien von echten Kunden können Teilnehmer, die mit bestehenden DAM-Kunden zusammenarbeiten, die neuen Lösungen dieses Angebots verstehen, die ihren bestehenden Workflows und dem Verständnis der Technologie helfen können.
 
 >[!VIDEO](https://video.tv.adobe.com/v/19298/?quality=9)
 
-*Delivered October 5, 2016*
+*Ausgestellt am 5. Oktober 2016*
 
-**Presented by:**
+**Vorgestellt von:**
 
 * Arnold Espos, Sr. Product Manager, Adobe
-* Josh Ramirez, Head of Product, [!DNL AEM Assets], Adobe
+* Josh Ramirez, Leiter des Produktbereichs, [!DNL AEM Assets], Adobe
 * Greg Klebus, Group Product Manager, Adobe
 
-**Presenter slides**
+**Präsentationsfolien**
 
-[Get File](assets/assets-webinar-oct5final.pdf)
+[Datei laden](assets/assets-webinar-oct5final.pdf)
 
-## Related links {#related-links}
+## Siehe auch: {#related-links}
 
-* [AEM Assets Documentation Updates](https://docs.adobe.com/content/docs/en/aem/recent-documentation-updates.html)
-* [AEM 6.1 SP2 Release Notes](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html)
-* [AEM 6.2 Desktop App Release Notes](https://docs.adobe.com/docs/en/aem/6-2/desktop-app-release-notes.html)
+* [Aktualisierungen der Dokumentation zu AEM Assets](https://docs.adobe.com/content/docs/de/aem/recent-documentation-updates.html)
+* [AEM 6.1 SP2 - Versionshinweise](https://docs.adobe.com/docs/en/aem/6-1/release-notes-sp2.html)
+* [AEM 6.2 Versionshinweise zur Desktop App](https://docs.adobe.com/docs/en/aem/6-2/desktop-app-release-notes.html)

@@ -1,25 +1,31 @@
 ---
-title: AEM Rich Text Editor (RTE) Deep Dive
-description: Learn the Best Practices around the rich configurations and use of RTE in AEM. We will cover the different use-cases, limitations, pitfalls, configuration workflow and common troubleshooting steps while using RTE in AEM. We will also touch upon its Command-Plugin Architecture and core concepts like Html Rules, Kernel and De-serialization.
+title: AEM Rich-Text-Editor (RTE) - Tief tauchen
+description: Erfahren Sie mehr über die Best Practices rund um die umfassenden Konfigurationen und die Verwendung von RTE in AEM. Wir werden die verschiedenen Anwendungsfälle, Einschränkungen, Fallstricke, Konfigurationsarbeitsabläufe und gängigen Schritte zur Fehlerbehebung bei der Verwendung von RTE in AEM behandeln. Wir werden auch auf die Befehlszeilenarchitektur und die Kernkonzepte wie HTML-Regeln, Kernel und De-Serialisierung eingehen.
 uuid: c55837d1-5703-44a9-b901-ab2e68d75dcb
 discoiquuid: d4220ddf-360a-4068-9558-b42f29038cc7
 targetaudience: target-audience new;target-audience ongoing;target-audience upgrader
+source-git-commit: 19832f1904681d68c102ddbdc8925cebf5dffcb2
+workflow-type: tm+mt
+source-wordcount: '134'
+ht-degree: 1%
+
 ---
 
-# AEM Rich Text Editor (RTE) Deep Dive{#aem-rich-text-editor-rte-deep-dive}
 
-Learn the Best Practices around the rich configurations and use of RTE in AEM. We will cover the different use-cases, limitations, pitfalls, configuration workflow and common troubleshooting steps while using RTE in AEM. We will also touch upon its Command-Plugin Architecture and core concepts like Html Rules, Kernel and De-serialization.
+# AEM Rich-Text-Editor (RTE) - Tief tauchen{#aem-rich-text-editor-rte-deep-dive}
 
-## AEM Rich Text Editor (RTE) Deep Dive
+Erfahren Sie mehr über die Best Practices rund um die umfassenden Konfigurationen und die Verwendung von RTE in AEM. Wir werden die verschiedenen Anwendungsfälle, Einschränkungen, Fallstricke, Konfigurationsarbeitsabläufe und gängigen Schritte zur Fehlerbehebung bei der Verwendung von RTE in AEM behandeln. Wir werden auch auf die Befehlszeilenarchitektur und die Kernkonzepte wie HTML-Regeln, Kernel und De-Serialisierung eingehen.
+
+## AEM Rich-Text-Editor (RTE) - Tief tauchen
 
 >[!VIDEO](https://video.tv.adobe.com/v/27087/?quality=9)
 
-*Delivered 04/17/19*
+*Zugestellt am 17.04.19*
 
-**Presented by:**
+**Vorgestellt von:**
 
-Hanish Bansal, Computer Scientist, Adobe
+Hanish Bansal, Informatiker, Adobe
 
-Presenter slides, Date: 04/17/2019
+Präsentationsfolien, Datum: 17. April 2019
 
-[Get File](assets/aem-gems-aem-rte-04172019.pdf)
+[Datei laden](assets/aem-gems-aem-rte-04172019.pdf)

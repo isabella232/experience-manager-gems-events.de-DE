@@ -1,33 +1,39 @@
 ---
-title: The Digital Asset Explosion & AEM Assets
-description: Learn about the digital asset explosion and AEM Assets at Adobe.
+title: Die digitale Asset-Explosion und AEM Assets
+description: Erfahren Sie mehr über die digitale Asset-Explosion und AEM Assets bei der Adobe.
 uuid: 236f688c-82c0-46dd-bbdc-e9c8552152c4
 discoiquuid: b3ec974b-8173-4dad-b349-88c4da78ce89
 targetaudience: target-audience advanced
+source-git-commit: 2bc5d56249e8835884a2eb348083507eb5308076
+workflow-type: tm+mt
+source-wordcount: '111'
+ht-degree: 1%
+
 ---
 
-# The Digital Asset Explosion & [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
 
-At Adobe, we have been observing an explosion in digital assets in 4 key areas:
+# Die digitale Asset-Explosion und [!DNL AEM Assets]{#the-digital-asset-explosion-aem-assets}
 
-* The file size of digital assets being produced
-* The number of digital assets being produced
-* The expectations of our users and customers for digital assets
-* The requests for larger and larger [!DNL AEM Assets] deployments
+Bei der Adobe haben wir eine Explosion digitaler Assets in vier Schlüsselbereichen beobachtet:
 
-In this session, we will learn about the Digital Asset Explosion, understanding the scale of AEM as assets explode, and follow a customer example through the lifecycle of their [!DNL AEM Assets] project. 
+* Die Dateigröße der erstellten digitalen Assets
+* Die Anzahl der erstellten digitalen Assets
+* Die Erwartungen unserer Benutzer und Kunden an digitale Assets
+* Die Anforderungen für größere und größere [!DNL AEM Assets] Bereitstellungen
+
+In dieser Sitzung erfahren wir mehr über die digitale Asset-Explosion, über das Ausmaß der AEM, als Assets explodieren, und folgen einem Kundenbeispiel über den Lebenszyklus ihrer [!DNL AEM Assets] Projekt.
 
 >[!VIDEO](https://video.tv.adobe.com/v/21474/?quality=9)
 
-*Delivered January 31, 2018*
+*Ausgestellt am 31. Januar 2018*
 
-**Presented by:**
+**Vorgestellt von:**
 
 Clint Goudie-Nice, Sr. Software Engineer, Adobe
 
-**Presenter slides**
+**Präsentationsfolien**
 
-[Get File](assets/1+30+18+the+digital+asset+explosion+gems.pdf)
+[Datei laden](assets/1+30+18+the+digital+asset+explosion+gems.pdf)
 <!--
 [Get back to the Overview](https://helpx.adobe.com/experience-manager/kt/eseminars/gems/aem-index.html)
 -->
