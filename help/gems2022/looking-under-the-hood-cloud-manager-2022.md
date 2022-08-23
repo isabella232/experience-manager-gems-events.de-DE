@@ -1,16 +1,16 @@
 ---
 title: Cloud Manager 2022
 description: 'Dieses AEM GEMs-Webinar umfasst eine Präsentation und eine Demo zu folgenden Themen: Entdecken Sie die neuen Funktionen, die im letzten Jahr veröffentlicht wurden, ein Update zu... (Beschreibungen sollten zwischen 60 und 160 Zeichen lang sein)'
-version: Experience Manager
+version: Cloud Service
 feature: Cloud Manager
 topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 4801df2e3b4471f1548bb9a170179a47490fafa8
-workflow-type: ht
+source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
+workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 100%
+ht-degree: 88%
 
 ---
 
@@ -22,7 +22,7 @@ ht-degree: 100%
 Sitzungsbeschreibung:
 Erkunden Sie die neuen Funktionen, die im letzten Jahr veröffentlicht wurden, ein Update zu den Entwicklungen hinter den Kulissen und einen Ausblick auf den Rest des Jahres 2022. Details darüber, wie Cloud Manager im Detail funktioniert und wie ein Kunde ihn optimal nutzen kann.  
 
-Die Inhalte gelten sowohl für Adobe Experience Manager as a Cloud Service als auch für Experience Manager Managed Services, wobei der Schwerpunkt auf dem Cloud-Service liegt. Sie sind für technische und nichttechnische Teilnehmer gleichermaßen geeignet. Eine vorherige Beschäftigung mit Cloud Manager kann für den Kontext hilfreich sein, ist aber nicht erforderlich.
+Die Inhalte gelten sowohl für Adobe Experience Manager as a Cloud Service als auch für Experience Manager Managed Services, wobei der Schwerpunkt auf dem Cloud-Service liegt. Es eignet sich sowohl für technische als auch für nichttechnische Teilnehmer. Die vorherige Veröffentlichung von Cloud Manager kann für den Kontext hilfreich sein, ist jedoch nicht erforderlich.
 
 **Webinar-Aufzeichnung**
 
