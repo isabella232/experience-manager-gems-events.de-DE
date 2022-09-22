@@ -1,7 +1,7 @@
 ---
 title: Anwendungsfall und Implementierung von AEM Headless in Verwendung
 description: Sitzungsmeldung
-version: 6.5
+version: Experience Manager
 feature: AEM Community Lens
 topic: Administration
 role: User
