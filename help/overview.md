@@ -1,6 +1,6 @@
 ---
 title: AEM GEM-Sitzungen
-description: Dies ist die Landingpage für AEM GEMs, einschließlich Informationen zur Webinarreihe und zu Registrierungsinformationen, vorherigen und kommenden Webinaren
+description: Dies ist die Landingpage für AEM GEMs mit Informationen über die Webinar-Reihe und Informationen zur Registrierung und zu früheren und kommenden Webinaren
 role: Leader
 exl-id: f8d210e7-b05c-4c71-9640-2cc50e2b309f
 cloud: Experience Cloud
@@ -10,45 +10,72 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM-Sitzungen
-source-git-commit: 88f872c25aafb17c0e57103c3918265c36f02745
+source-git-commit: 1e3446dde6cff9498ed3982c092b5cab7e541a8c
 workflow-type: tm+mt
-source-wordcount: '268'
-ht-degree: 2%
+source-wordcount: '0'
+ht-degree: 0%
 
 ---
 
-# Adobe Experience Manager Gems
+# GEMS zu Adobe Experience Manager
 
 <img alt="Digitale Erlebnisse" src="./assets/ADX_Gems.png"/>
 
-## 2022 Einführung AEM GEMs
+## Bevorstehende AEM GEMs Veranstaltungen!
 
-Willkommen bei **AEM GEMs** - unsere Webinar-Reihe technischer Vertiefungen zu Adobe Experience Manager, bereitgestellt von Experten für Adobe. Diese Reihe ergänzt die Produktdokumentation und alle anderen technischen Kanäle zu Adobe Experience Manager und ermöglicht es Entwicklern, sich mit einem bestimmten Thema vertraut zu machen.
+<!---  Remove the comment marks, and put the upcoming event in the below table
 
-Die Webinare werden regelmäßig durchgeführt, darunter:
+<table style="max-width: 1214px;">
+<tr>
+  <td style="vertical-align: top;">
+    <a href="https://www.youtube.com/watch?v=f1T9XU9TCJU">
+      <img alt="Experience League LIVE Oct 25" src="assets/Oct25_2022_exl_live_banner_web_1920_WebBanner.png">
+    </a>
+    <div>
+      <a href="https://www.youtube.com/watch?v=f1T9XU9TCJU">
+        <strong>Deliver the right offer at the right time with decision management</strong>
+      </a>
+      <br/><em>with Sandra Hausmann, Ben Tepfer, Brandon Poyfair, and Jason Hickey</em>
+      <br/><em>October 25, 2022</em>
+    </div>
+  </td>
+</tr>
+</table>
+
+--->
+Weitere Informationen über bevorstehende AEM werden im November 2022 verfügbar sein.
+
+>[!NOTE]
+>
+> Melden Sie sich an, um über bevorstehende GEMS-Sitzungen auf informiert zu werden [AEM Benutzergruppe der Adobe](https://aem-augs.adobe.com/).
+
+## Wiedereinführung von AEM GEMs 2022
+
+Willkommen bei **AEM GEMs** – unsere Webinar-Reihe detaillierter technischer Einblicke in Adobe Experience Manager, bereitgestellt von Adobe-Experten. Diese Reihe ergänzt die Produktdokumentation und alle anderen technischen Kanäle zu Adobe Experience Manager und ermöglicht es Entwicklern, sich mit einem bestimmten Thema vertraut zu machen.
+
+Die Webinare werden regelmäßig durchgeführt und haben folgende Merkmale:
 
 * Maximale Dauer von 60 Minuten
-* Fragen und Antworten am Ende und Chatexperten im gesamten Webinar
-* Nach jedem Webinar verfügbare Aufzeichnung
+* Fragen und Antworten am Ende und Expertinnen und Experten im Chat im gesamten Webinar
+* Nach jedem Webinar ist eine Aufzeichnung verfügbar
 * Webinar ist kostenlos
 
-## Bevorstehende Webinare und Registrierung
+Alle unsere AEM GEMs-Webinare sind kostenlos und werden virtuell durchgeführt.
 
-Alle unsere AEM GEMs Webinare sind kostenlos und werden praktisch durchgeführt.
-* Registrieren Sie sich unter [AEM Benutzergruppe der Adobe](https://aem-augs.adobe.com/) um über unsere kommenden Webinare informiert zu werden.
+Registrieren Sie sich unter [AEM Benutzergruppe der Adobe](https://aem-augs.adobe.com/) um über unsere kommenden Webinare informiert zu werden.
 
-## Experience League Community
+## Experience League-Community
 
-Unsere [Experience Manager Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=de) eine entscheidende Rolle bei der Unterstützung der Produktakzeptanz und des Kundenerfolgs spielen.
+Unsere [Experience Manager-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?lang=de) spielt eine entscheidende Rolle bei der Unterstützung der Produktakzeptanz und des Kundenerfolgs.
 
-* Verbindung: Netzwerk mit Peer- und Adobe-Mitarbeitern für Anleitungen und Best Practices von der Implementierung bis zur erweiterten Produktnutzung
-* Schnellantworten: Umfassendes Angebot an realen Anwendungsfallantworten, um eine erfolgreiche aktive Nutzung von Adobe-Lösungen zu unterstützen
-* Idee und Feedback: Nehmen Sie Produktideen von Kunden auf und geben Sie Produktteams wertvolles VoC-Feedback.
+* Vernetzung: Netzwerk mit Fachkollegen und Adobe-Mitarbeitern für Beratung und Best Practices bei der Implementierung und Erweiterung der Produktnutzung
+* Schnelle Antworten: Umfangreicher Pool mit Antworten auf praktische Anwendungsfälle zur Unterstützung des erfolgreichen Einsatzes von Adobe-Lösungen
+* Ideen und Feedback: Berücksichtigung von Produktideen der Kunden und Bereitstellung von wertvollem VoC-Feedback für die Produkt-Teams
 
-## Frühere Aufzeichnung eines Webinars
+## Aufzeichnungen früherer Webinare
 
-Unser letztes Webinar war ungefähr **Integrieren Sie AEM &amp; CIF-Framework, um ein umfassendes und intensives E-Commerce-Erlebnis zu schaffen.** und wurde am 27. April durchgeführt.
+Unser letztes Webinar, das am 27. April stattfand, befasste sich mit der **Integration des AEM- und CIF-Frameworks zum Aufbau eines vielfältigen und eindrucksvollen E-Commerce-Erlebnisses**.
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 
-Dieses Webinar wurde von Kunal Gaba &amp; Vinay Kumar, beides technische Architekten an der Adobe, vorgestellt.
+Dieses Webinar wurde von Kunal Gaba und Vinay Kumar, beides technische Architekten bei Adobe, vorgestellt.
