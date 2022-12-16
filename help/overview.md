@@ -10,10 +10,10 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM-Sitzungen
-source-git-commit: b537a225b4bfe26172cf0e4798a79715718c6f83
+source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
 workflow-type: tm+mt
-source-wordcount: '315'
-ht-degree: 80%
+source-wordcount: '318'
+ht-degree: 79%
 
 ---
 
@@ -45,7 +45,7 @@ ht-degree: 80%
 --->
 Bevorstehende AEM GEMs-Webinar: *AEM Best Practices Analyzer für On-Premise- und AMS-Umgebungen*.
 Zeit: 18. Januar, 17 Uhr MEZ/8 Uhr PST/21.30 Uhr IST-Ressource: [AEM Best Practices Analyzer](/help/gems2022/aem-best-practices-analyzer.md)
-Registrierung: [Webinarregistrierung](https://aem-augs.adobe.com/)
+Registrierung: [Webinarregistrierung](https://aem-augs.adobe.com/e/mz8eae/)
 
 >[!NOTE]
 >
