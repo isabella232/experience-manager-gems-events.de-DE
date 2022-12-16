@@ -7,13 +7,13 @@ topic: Administration
 role: Developer
 level: Beginner
 kt: 10470
-source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
+exl-id: 5f3e2e14-57ab-4bf5-a8c7-9bf431836ab2
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
-
 
 # Im Hintergrund – Cloud Manager 2022
 
@@ -22,7 +22,7 @@ ht-degree: 88%
 Sitzungsbeschreibung:
 Erkunden Sie die neuen Funktionen, die im letzten Jahr veröffentlicht wurden, ein Update zu den Entwicklungen hinter den Kulissen und einen Ausblick auf den Rest des Jahres 2022. Details darüber, wie Cloud Manager im Detail funktioniert und wie ein Kunde ihn optimal nutzen kann.  
 
-Die Inhalte gelten sowohl für Adobe Experience Manager as a Cloud Service als auch für Experience Manager Managed Services, wobei der Schwerpunkt auf dem Cloud-Service liegt. Es eignet sich sowohl für technische als auch für nichttechnische Teilnehmer. Die vorherige Veröffentlichung von Cloud Manager kann für den Kontext hilfreich sein, ist jedoch nicht erforderlich.
+Die Inhalte gelten sowohl für Adobe Experience Manager as a Cloud Service als auch für Experience Manager Managed Services, wobei der Schwerpunkt auf dem Cloud-Service liegt. Sie sind für technische und andere Teilnehmer gleichermaßen geeignet. Eine vorherige Beschäftigung mit Cloud Manager kann für den Kontext hilfreich sein, ist aber nicht unbedingt erforderlich.
 
 **Webinar-Aufzeichnung**
 

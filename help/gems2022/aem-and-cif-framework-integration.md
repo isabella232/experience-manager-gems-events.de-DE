@@ -1,23 +1,23 @@
 ---
 title: Integration von AEM und dem CIF-Framework, um ein vielfältiges und beeindruckendes E-Commerce-Erlebnis zu schaffen
-description: Erfahren Sie, wie das CIF-Framework von Adobe verwendet werden kann, um ein konsistentes, inhaltsreiches und interaktives Commerce-Erlebnis zu erstellen.
+description: Erfahren Sie, wie das CIF-Framework von Adobe verwendet werden kann, um ein konsistentes, inhaltsreiches und beeindruckendes Commerce-Erlebnis zu schaffen.
 version: Cloud Service
 feature: Integrations
 topic: Integrations
 role: User
 level: Intermediate
 kt: 10220
-source-git-commit: 45c3992186b961978310cb0026bab47f1edb4ade
+exl-id: 49bed9eb-8995-4821-b919-b7ca0e0c44d1
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
 workflow-type: tm+mt
 source-wordcount: '219'
-ht-degree: 67%
+ht-degree: 100%
 
 ---
 
-
 # Integration von AEM und dem CIF-Framework, um ein vielfältiges und beeindruckendes E-Commerce-Erlebnis zu schaffen
 
-Dieses AEM GEMs-Webinar enthält eine Präsentation und eine Demo, die Ihnen dabei helfen, zu verstehen, wie das CIF-Framework von Adobe verwendet werden kann, um ein konsistentes, inhaltsreiches und interaktives Commerce-Erlebnis zu schaffen. Adobe Experience Manager und Adobe Commerce werden über das Commerce Integration Framework (CIF) nahtlos integriert. CIF ermöglicht AEM direkten Zugriff auf die Commerce-Instanz und die direkte Kommunikation mit ihnen mithilfe der GraphQL-APIs von Adobe Commerce (siehe Agenda auf hoher Ebene unten).
+Dieses Webinar aus der Reihe AEM GEMs enthält eine Präsentation und eine Demo, die Ihnen zeigen, wie das CIF-Framework von Adobe verwendet werden kann, um ein konsistentes, inhaltsreiches und beeindruckendes Commerce-Erlebnis zu schaffen. Experience Manager und Adobe Commerce werden über das Commerce Integration Framework (CIF) nahtlos integriert. CIF ermöglicht AEM über die GraphQL-APIs von Adobe Commerce den direkten Zugriff auf und die Kommunikation mit der Commerce-Instanz (siehe die nachstehende Agenda).
 
 >[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
 
