@@ -6,7 +6,7 @@ feature-set: Experience Manager
 source-git-commit: 57071c7c13f7a4314961bb246bbe9076d110e58c
 workflow-type: tm+mt
 source-wordcount: '626'
-ht-degree: 96%
+ht-degree: 98%
 
 ---
 
@@ -18,7 +18,7 @@ ht-degree: 96%
    + [Bevorstehende Webinare](/help/announcements.md)
    + [AEM Best Practices Analyzer für On-Premise- und AMS-Umgebungen](gems2022/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
-   + [Anwendungsfall und Implementierung von AEM Headless in Verwendung](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
+   + [Kunden-Anwendungsfall und Implementierung von AEM Headless in Verwendung](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
    + [Im Hintergrund – Cloud Manager 2022](gems2022/looking-under-the-hood-cloud-manager-2022.md)
    + [Integration von AEM und dem CIF-Framework, um ein vielfältiges und beeindruckendes E-Commerce-Erlebnis zu schaffen](gems2022/aem-and-cif-framework-integration.md)
    + [Schnellere Erstellung von Websites mit AEM Headless und App Builder](gems2022/build-sites-faster-with-headless-and-appbuilder.md)

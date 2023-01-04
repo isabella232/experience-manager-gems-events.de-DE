@@ -13,7 +13,7 @@ user-guide-description: AEM GEM-Sitzungen
 source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
 workflow-type: tm+mt
 source-wordcount: '318'
-ht-degree: 79%
+ht-degree: 88%
 
 ---
 
@@ -49,7 +49,7 @@ Registrierung: [Webinarregistrierung](https://aem-augs.adobe.com/e/mz8eae/)
 
 >[!NOTE]
 >
-> Melden Sie sich an, um über bevorstehende GEMS-Sitzungen auf informiert zu werden [AEM Benutzergruppe der Adobe](https://aem-augs.adobe.com/).
+> Melden Sie sich bei der [AEM-Benutzergruppe von Adobe](https://aem-augs.adobe.com/) an, um über bevorstehende GEMS-Sitzungen informiert zu werden.
 
 ## Wiedereinführung von AEM GEMs 2022
 
@@ -64,7 +64,7 @@ Die Webinare werden regelmäßig durchgeführt und haben folgende Merkmale:
 
 Alle unsere AEM GEMs-Webinare sind kostenlos und werden virtuell durchgeführt.
 
-Registrieren Sie sich unter [AEM Benutzergruppe der Adobe](https://aem-augs.adobe.com/) um über unsere kommenden Webinare informiert zu werden.
+Registrieren Sie sich bei der [AEM-Benutzergruppe von Adobe](https://aem-augs.adobe.com/), um über unsere kommenden Webinare informiert zu werden.
 
 ## Experience League-Community
 
