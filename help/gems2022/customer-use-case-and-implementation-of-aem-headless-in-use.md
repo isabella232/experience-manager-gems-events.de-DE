@@ -1,48 +1,49 @@
 ---
-title: Anwendungsfall und Implementierung von AEM Headless in Verwendung
-description: Sitzungsmeldung
+title: Kunden-Anwendungsfall und Implementierung von AEM Headless in Verwendung
+description: Sitzungsankündigung
 version: 6.5
 feature: AEM Community Lens
 topic: Administration
 role: User
 level: Intermediate
-source-git-commit: 9ad6ce49d6728e36168482133f3017303c90c72f
-workflow-type: tm+mt
+exl-id: 05c19b41-69d5-4400-85be-38e5a55ef2c1
+source-git-commit: bdd73fea8b33aa0bd25d8de5295808a6aa9911bd
+workflow-type: ht
 source-wordcount: '268'
-ht-degree: 10%
+ht-degree: 100%
 
 ---
 
-# AEM GEMs-Funktion - Anwendungsfall für Kunden und Implementierung von AEM Headless in Verwendung
+# AEM GEMs-Funktion – Kunden-Anwendungsfall und Implementierung von AEM Headless in Verwendung
 
-*Dieses Webinar wurde durchgeführt am **Mittwoch, 12. Oktober - 15 Uhr UTC**. Die Aufzeichnung ist unten verfügbar.*
+*Dieses Webinar wurde am **Mittwoch, 12. Oktober um 3 Uhr UTC** durchgeführt. Die Aufzeichnung ist unten verfügbar.*
 
-Diese außergewöhnliche AEM-GEMs-Sitzung beinhaltet zwei Sprecher, die AEM als Kunden arbeiten. Die Sitzung wird in zwei Hälften aufgeteilt:
+Diese besondere AEM-GEMs-Sitzung bietet zwei Redner, die AEM als Kunden betreiben. Die Sitzung wird in zwei Hälften aufgeteilt wie folgt:
 
 ## Teil 1: AEM als Headless-CMS Wo/Wann/Warum?
 
-Presenter: Vengadesh Shanmugavelu - Technischer Architekt, Katar Airways
+Vortragender: Vengadesh Shanmugavelu – Technischer Architekt, Qatar Airways
 
 **Sitzungsbeschreibung:**
-Es gibt viele Möglichkeiten, wie wir Headless-CMS über AEM implementieren können.
-In dieser Sitzung werden wir Folgendes behandeln:
+Es gibt viele Möglichkeiten, Headless-CMS über AEM zu implementieren.
+In dieser Sitzung behandeln wir Folgendes:
 
-* Inhaltsdienste über Exporter/Servlets
+* Inhalts-Services über Exporter/Servlets
 * Inhaltsfragment über Asset-API (Demo)
-* Inhaltsfragment per Diagramm (Demo)
-* Einige Echtzeitanwendungsfälle rund um die Verwendung von Inhaltsfragmenten und deren Ansätzen
-* SPA Editor-Lernprozesse (Lösungsansätze zur Auswahl) (Demo)
+* Inhaltsfragment über GraphQL (Demo)
+* Einige Echtzeitanwendungsfälle rund um die Verwendung von Inhaltsfragmenten und ihre jeweiligen Ansätze
+* SPA-Editor-Lernprozesse (Lösungsansatz zur Auswahlentscheidung) (Demo)
 
 ## Teil 2: Bereitstellen von Headless-Inhalten über die GraphQL-API und Inhaltsfragmente
 
-Presenter: Debal Das - Senior System Analyst, IBM
+Referent: Debal Das – Senior-Systemanalyst, IBM
 
 **Sitzungsbeschreibung:**
-In dieser Sitzung werden wir die GraphQL-Nutzung von Inhaltsfragmenten (zusätzlich zu den bereits vorhandenen JSON-APIs) behandeln.
+In dieser Sitzung wird die Verwendung von Inhaltsfragmenten in GraphQL (zusätzlich zu den bereits vorhandenen JSON-APIs) behandelt.
 
-Grundsätzlich ähnelt GraphQL einer SQL-Datenbankabfrage, mit der Ausnahme, dass eine API für die Abfrage und nicht für eine Datenbank verwendet wird.
+Grundsätzlich ähnelt GraphQL einer SQL-Datenbankabfrage, mit der Ausnahme, dass für die Abfrage eine API statt einer Datenbank verwendet wird.
 
-Dadurch entfällt die Anforderung, dass die API viele Endpunkte bereitstellen muss, die verschiedene Volumina oder Datengruppen für verschiedene Kunden bereitstellen, und es verschiedenen Kunden ermöglicht, die API nach ihren eigenen Bedürfnissen abzufragen.
+Dadurch entfällt die Anforderung, dass die API viele Endpunkte bereitstellen muss, die verschiedene Volumina oder Datengruppen für verschiedene Kunden bereitstellen. Außerdem wird es ermöglicht, dass mehrere Kunden die API nach ihren eigenen Bedürfnissen abfragen können.
 
 **Sitzungsaufzeichnung**
 
@@ -52,3 +53,4 @@ Dadurch entfällt die Anforderung, dass die API viele Endpunkte bereitstellen mu
 >
 >* Informationen zu sitzungsspezifischen Community-Interaktionen in der Experience League finden Sie in diesem [kontextuellen Thread](https://adobe.ly/3r6P4nr).
 >* Um automatische Benachrichtigungen zu Webinaren zu erhalten, registrieren Sie sich bitte bei der [AEM-Benutzergruppe von Adobe](https://aem-augs.adobe.com/).
+
