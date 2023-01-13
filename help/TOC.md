@@ -4,9 +4,9 @@ user-guide-description: Erfahren Sie mehr über AEM GEMs, eine Reihe detailliert
 breadcrumb-title: GEMS-Veranstaltungen für AEM
 feature-set: Experience Manager
 source-git-commit: 57071c7c13f7a4314961bb246bbe9076d110e58c
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '626'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
