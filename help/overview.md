@@ -11,9 +11,9 @@ level: Intermediate
 type: Event
 user-guide-description: AEM GEM-Sitzungen
 source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '318'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
@@ -43,9 +43,10 @@ ht-degree: 88%
 </table>
 
 --->
-Bevorstehende AEM GEMs-Webinar: *AEM Best Practices Analyzer für On-Premise- und AMS-Umgebungen*.
-Zeit: 18. Januar, 17 Uhr MEZ/8 Uhr PST/21.30 Uhr IST-Ressource: [AEM Best Practices Analyzer](/help/gems2022/aem-best-practices-analyzer.md)
-Registrierung: [Webinarregistrierung](https://aem-augs.adobe.com/e/mz8eae/)
+Bevorstehendes AEM GEMs-Webinar: *AEM Best Practices Analyzer für On-Premise- und AMS-Umgebungen*.
+Zeit: 18. Januar, 17 Uhr MEZ/8 Uhr PST/21:30 Uhr IST
+Ressource: [AEM Best Practices Analyzer](/help/gems2022/aem-best-practices-analyzer.md)
+Registrierung: [Registrierung zum Webinar](https://aem-augs.adobe.com/e/mz8eae/)
 
 >[!NOTE]
 >
@@ -68,7 +69,7 @@ Registrieren Sie sich bei der [AEM-Benutzergruppe von Adobe](https://aem-augs.ad
 
 ## Experience League-Community
 
-Unsere [Experience Manager-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?lang=de) spielt eine entscheidende Rolle bei der Unterstützung der Produktakzeptanz und des Kundenerfolgs.
+Unsere [Experience Manager-Community](https://experienceleaguecommunities.adobe.com/t5/adobe-experience-manager/ct-p/adobe-experience-manager-community?profile.language=de) spielt eine entscheidende Rolle bei der Unterstützung der Produktakzeptanz und des Kundenerfolgs.
 
 * Vernetzung: Netzwerk mit Fachkollegen und Adobe-Mitarbeitern für Beratung und Best Practices bei der Implementierung und Erweiterung der Produktnutzung
 * Schnelle Antworten: Umfangreicher Pool mit Antworten auf praktische Anwendungsfälle zur Unterstützung des erfolgreichen Einsatzes von Adobe-Lösungen
