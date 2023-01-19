@@ -3,9 +3,9 @@ user-guide-title: GEMS-Veranstaltungen für Adobe Experience Manager
 user-guide-description: Erfahren Sie mehr über AEM GEMs, eine Reihe detaillierter technischer Einblicke, die von Adobe Experience Manager-Experten angeboten werden.
 breadcrumb-title: GEMS-Veranstaltungen für AEM
 feature-set: Experience Manager
-source-git-commit: 57071c7c13f7a4314961bb246bbe9076d110e58c
-workflow-type: ht
-source-wordcount: '626'
+source-git-commit: a2a18df80d8a5dfe545bda36d82ea23239e388f1
+workflow-type: tm+mt
+source-wordcount: '624'
 ht-degree: 100%
 
 ---
@@ -15,7 +15,6 @@ ht-degree: 100%
 
 + [Übersicht](overview.md)
 + 2023 {#gems2023}
-   + [Bevorstehende Webinare](/help/announcements.md)
    + [AEM Best Practices Analyzer für On-Premise- und AMS-Umgebungen](gems2022/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
    + [Kunden-Anwendungsfall und Implementierung von AEM Headless in Verwendung](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
