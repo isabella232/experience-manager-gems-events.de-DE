@@ -10,10 +10,10 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM-Sitzungen
-source-git-commit: 06c5a38ad111a2393e8d52d6e4037f5debefef18
-workflow-type: ht
-source-wordcount: '318'
-ht-degree: 100%
+source-git-commit: ac58e896b1d01876b5a00d426bdf3e2176e6f95e
+workflow-type: tm+mt
+source-wordcount: '311'
+ht-degree: 74%
 
 ---
 
@@ -43,14 +43,12 @@ ht-degree: 100%
 </table>
 
 --->
-Bevorstehendes AEM GEMs-Webinar: *AEM Best Practices Analyzer für On-Premise- und AMS-Umgebungen*.
-Zeit: 18. Januar, 17 Uhr MEZ/8 Uhr PST/21:30 Uhr IST
-Ressource: [AEM Best Practices Analyzer](/help/gems2022/aem-best-practices-analyzer.md)
-Registrierung: [Registrierung zum Webinar](https://aem-augs.adobe.com/e/mz8eae/)
+Letztes AEM GEMs-Webinar: *AEM Best Practices Analyzer für On-Premise- und AMS-Umgebungen*.
+Durchgeführt: 18. Januar, 17 Uhr MEZ/8 Uhr PST/21.30 Uhr IST-Ressource: [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md)
 
 >[!NOTE]
 >
-> Melden Sie sich bei der [AEM-Benutzergruppe von Adobe](https://aem-augs.adobe.com/) an, um über bevorstehende GEMS-Sitzungen informiert zu werden.
+> Melden Sie sich an, um über bevorstehende AEM GEMs-Webinare informiert zu werden unter [AEM Benutzergruppe der Adobe](https://aem-augs.adobe.com/).
 
 ## Wiedereinführung von AEM GEMs 2022
 
@@ -77,8 +75,8 @@ Unsere [Experience Manager-Community](https://experienceleaguecommunities.adobe.
 
 ## Aufzeichnungen früherer Webinare
 
-Unser letztes Webinar, das am 27. April stattfand, befasste sich mit der **Integration des AEM- und CIF-Frameworks zum Aufbau eines vielfältigen und eindrucksvollen E-Commerce-Erlebnisses**.
+Unser letztes Webinar war ungefähr **AEM Best Practices Analyzer für On-Premise- und AMS-Umgebungen** und wurde am 18. Januar 2023 durchgeführt.
 
->[!VIDEO](https://video.tv.adobe.com/v/342565/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
-Dieses Webinar wurde von Kunal Gaba und Vinay Kumar, beides technische Architekten bei Adobe, vorgestellt.
+Details zu den Sitzungen, einschließlich einer Beschreibung und Informationen des Moderators, finden Sie unter [AEM Best Practices Analyzer](/help/gems2023/aem-best-practices-analyzer.md).
