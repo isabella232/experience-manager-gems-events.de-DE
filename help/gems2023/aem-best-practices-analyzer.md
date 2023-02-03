@@ -8,15 +8,15 @@ role: User
 level: Intermediate
 kt: 11630
 source-git-commit: 9d0b0f54f81e5dcc2f169b1e3420a1bca3e8d0a5
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '262'
-ht-degree: 88%
+ht-degree: 100%
 
 ---
 
 # AEM Best Practices Analyzer für On-Premise- und AMS-Umgebungen
 
-## Dieses Webinar wurde am 18. Januar 2023 zugestellt - sehen Sie sich bitte die unten stehende Aufzeichnung an
+## Dieses Webinar wurde am 18. Januar 2023 gehalten – unten befindet sich die Aufzeichnung zum Ansehen
 
 ## Beschreibung
 
@@ -25,13 +25,13 @@ Beachten Sie, dass AEM Best Practices Analyzer nicht für AEM as a Cloud Service
 
 ### Moderatoren
 
-* Aditi Dutt Chaudhuri, Sr. Product Manager, Adobe
+* Aditi Dutt Chaudhari, Senior Product Manager, Adobe
 * Saurabh Saxena, Engineering Manager, Adobe
 * Kiran Murugulla, Senior Cloud Architect, Adobe
 * Vaibhav Varshney, Informatiker, Adobe
 * Himani Chauhan, Informatiker, Adobe
 
-## Webinar-Aufzeichnung - 18.01.2023
+## Webinar-Aufzeichnung – 18.01.2023
 
 >[!VIDEO](https://video.tv.adobe.com/v/3413364/)
 
