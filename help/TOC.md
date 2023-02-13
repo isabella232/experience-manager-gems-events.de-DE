@@ -4,9 +4,9 @@ user-guide-description: Erfahren Sie mehr über AEM GEMs, eine Reihe detailliert
 breadcrumb-title: GEMS-Veranstaltungen für AEM
 feature-set: Experience Manager
 source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
-workflow-type: tm+mt
+workflow-type: ht
 source-wordcount: '636'
-ht-degree: 98%
+ht-degree: 100%
 
 ---
 
@@ -15,7 +15,7 @@ ht-degree: 98%
 
 + [Übersicht](overview.md)
 + 2023 {#gems2023}
-   + [Beschleunigung der as a Cloud Service Entwicklung von Experience Managern mit raschen Entwicklungsumgebungen](/help/gems2023/Rapid-Development-Environments.md)
+   + [Beschleunigen der Entwicklung von Experience Manager as a Cloud Service mit schnellen Entwicklungsumgebungen](/help/gems2023/Rapid-Development-Environments.md)
    + [AEM Best Practices Analyzer für On-Premise- und AMS-Umgebungen](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
    + [Kunden-Anwendungsfall und Implementierung von AEM Headless in Verwendung](gems2022/customer-use-case-and-implementation-of-aem-headless-in-use.md)
