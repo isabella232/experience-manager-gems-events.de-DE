@@ -10,10 +10,10 @@ feature: Release Information
 level: Intermediate
 type: Event
 user-guide-description: AEM GEM-Sitzungen
-source-git-commit: c6540288afd5bd5e2c2cad7c5803ecbf1de65542
+source-git-commit: 5d0685d5dba95f454b2af58841501812dc5be8f0
 workflow-type: tm+mt
-source-wordcount: '0'
-ht-degree: 0%
+source-wordcount: '279'
+ht-degree: 86%
 
 ---
 
@@ -21,7 +21,7 @@ ht-degree: 0%
 
 <img alt="Digitale Erlebnisse" src="./assets/ADX_Gems.png"/>
 
-## Bevorstehende AEM GEMs Veranstaltungen!
+## Vorherige AEM GEMs-Veranstaltung!
 
 <!---  Remove the comment marks, and put the upcoming event in the below table
 
@@ -43,8 +43,8 @@ ht-degree: 0%
 </table>
 
 --->
-Unser aktuellstes AEM GEMs-Webinar auf *Beschleunigung der Entwicklung von Adobe Experience Manager-Cloud Services mit Rapid Development Environments* wurde am 22. Februar 2023 durchgeführt.
-Die Aufzeichnung finden Sie hier: [AEM Webinar zu raschen Entwicklungsumgebungen](/help/gems2023/Rapid-Development-Environments.md)
+Unser aktuellstes AEM GEMs-Webinar auf **Beschleunigung der Entwicklung von Adobe Experience Manager-Cloud Services mit Rapid Development Environments** wurde durchgeführt am *22. Februar 2023*.
+Die **Aufzeichnen** finden Sie hier: [AEM Webinar zu raschen Entwicklungsumgebungen](/help/gems2023/Rapid-Development-Environments.md)
 
 >[!NOTE]
 >
