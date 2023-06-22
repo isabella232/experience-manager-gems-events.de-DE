@@ -10,9 +10,9 @@ doc-type: Event
 last-substantial-update: 2023-06-22T00:00:00Z
 jira: KT-13542
 thumbnail: KT-13542.jpeg
-source-git-commit: 1f975085f0d25c98fad62e7cc5635216b26ae1d2
+source-git-commit: 1143058f0cb213a765b8cbdab1779fe79b7a4335
 workflow-type: tm+mt
-source-wordcount: '323'
+source-wordcount: '0'
 ht-degree: 0%
 
 ---
@@ -20,7 +20,7 @@ ht-degree: 0%
 
 # Übergeordnete Zertifizierung nach Art des Experience Managers: Bereit, Set, Zertifizierung!
 
-Dieses Webinar wird am 28. Juni 2023 (8 Uhr PST) durchgeführt. Bitte registrieren Sie sich hier [Ereignisseitenlink](https://adobe.ly/3Ni6XeL).
+Dieses Webinar wird am **28. Juni**, 2023 (8 Uhr PST). Bitte registrieren Sie sich hier [Ereignisseitenlink](https://adobe.ly/3Ni6XeL).
 
 ## Sitzungsbeschreibung
 
