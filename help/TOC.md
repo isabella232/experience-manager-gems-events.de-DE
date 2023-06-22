@@ -3,10 +3,10 @@ user-guide-title: GEMS-Veranstaltungen für Adobe Experience Manager
 user-guide-description: Erfahren Sie mehr über AEM GEMs, eine Reihe detaillierter technischer Einblicke, die von Adobe Experience Manager-Experten angeboten werden.
 breadcrumb-title: GEMS-Veranstaltungen für AEM
 feature-set: Experience Manager
-source-git-commit: 99c697a203a0417e6587386489335fde28c8ecb1
+source-git-commit: 401634150d018e42a35556a0e5d9df19ed7ec74f
 workflow-type: tm+mt
-source-wordcount: '636'
-ht-degree: 100%
+source-wordcount: '639'
+ht-degree: 99%
 
 ---
 
@@ -15,6 +15,7 @@ ht-degree: 100%
 
 + [Übersicht](overview.md)
 + 2023 {#gems2023}
+   + [AEM-Zertifizierung - Technisch](/help/gems2023/aem-certification-technical.md)
    + [Beschleunigen der Entwicklung von Experience Manager as a Cloud Service mit schnellen Entwicklungsumgebungen](/help/gems2023/Rapid-Development-Environments.md)
    + [AEM Best Practices Analyzer für On-Premise- und AMS-Umgebungen](gems2023/aem-best-practices-analyzer.md)
 + 2022 {#gems2022}
@@ -74,7 +75,7 @@ ht-degree: 100%
    + [Einrichten und Konfigurieren von AEM Dynamic Media](/help/gems2016/aem-setup-and-configure-aem-dynamic-media.md)
    + [Technische Vorschau](/help/gems2016/aem-technical-sneak-peek.md)
    + [Tools zum Testen von Adobe Experience Manager-Programmen](/help/gems2016/aem-testing-tools-for-aem-apps.md)
-   + [Verwenden von SAML in Adobe Experience Manager-Implementierungen](/help/gems2016/aem-utilizing-saml-in-aem-deployments.md)
+   + [Verwenden von SAML in Adobe Experience Manager-Bereitstellungen](/help/gems2016/aem-utilizing-saml-in-aem-deployments.md)
    + [AEM-Web-Performance](/help/gems2016/aem-web-performance.md)
 + 2015 {#gems2015}
    + [AEM 6.1 – Übersetzungsintegration und Best Practices](/help/gems2015/aem-6-1-translation-integration-and-best-practices.md)
